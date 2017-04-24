@@ -1,6 +1,9 @@
 # README
 ----
-测试 config server
+测试 config server project
+
+need run  docker-compose.yml file out config-client directory
+
 
 
 ----
