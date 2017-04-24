@@ -1,0 +1,11 @@
+server:
+  port: 9090
+management:
+  security:
+    enabled: false
+
+---
+spring:
+  profiles: docker
+  rabbitmq:
+    host:  rabbitmq
